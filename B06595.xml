@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The wild goose chas'd.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1672</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06595</idno>
+            <idno type="STC">Wing W2155A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[242]</idno>
+            <idno type="EEBO-CITATION">99885058</idno>
+            <idno type="PROQUEST">ocm99885058</idno>
+            <idno type="VID">182911</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06595)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182911)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:2[243])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The wild goose chas'd.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1672]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Verse: "Sixteenthly; then beloved, it is so ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wild, Robert, 1609-1679 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2008-04</date>
+            <label>Elspeth Healey</label>Sampled and proofread</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:182911:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 18 -->
+            <head>THE WILD GOOSE CHASD.</head>
+            <l>
+               <hi>SIxteenthly;</hi> then beloved, it is ſo,</l>
+            <l>Out of <hi>John Calvin</hi>'s Reliques Poets grow;</l>
+            <l>Who, when their Pulpit plots are out of date,</l>
+            <l>With Puny Ballads will infeſt the State.</l>
+            <l>As <hi>Neſſus</hi> when's approaching Fate he ſpy'd,</l>
+            <l>Reſolv'd to do ſome miſcheif e're he dy'd.</l>
+            <l>Old <hi>Hydra,</hi> once at that prodigious height</l>
+            <l>As to endure no wrong, nor do no right,</l>
+            <l>Rais'd by fond errour of miſguided zeal,</l>
+            <l>To trample on both <hi>King</hi> and Commonweal,</l>
+            <l>Breaths her laſt dying groans now; and we ſee</l>
+            <l>Has here found one to write her Elegie;</l>
+            <l>One, who in time, I hope, need not deſpair</l>
+            <l>To be <hi>Bard Laureat to a Quinborough Mayor,</hi>
+            </l>
+            <l>Unleſs a dreadful Halter intervene,</l>
+            <l>Curing his lame toes of their gouty pain;</l>
+            <l>One, who, if he proceed will never fail</l>
+            <l>
+               <hi>Clio</hi> to court inſtead of <hi>Abigail;</hi>
+            </l>
+            <l>One, who not yet forgetting through his Noſe</l>
+            <l>To cant out Treaſon in dull heavy proſe,</l>
+            <l>Although condemned to be ſilent, will</l>
+            <l>Reiterate in <hi>Rithmes</hi> that Doctrine ſtill;</l>
+            <l>Who ecchoes out <hi>ten Crowns</hi> with ſuch alarms</l>
+            <l>As if he had both <hi>Indies</hi> in his arms.</l>
+            <l>Thoſe torrid Regions, whoſe black, ſquallid face</l>
+            <l>Such never to b<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> valued gemms do grace;</l>
+            <l>Or bellowing to a <hi>crew of Crops,</hi> —<hi>even now,</hi>
+            </l>
+            <l>
+               <hi>To help the Lord againſt the mighty, go;</hi>
+            </l>
+            <l>One, who might very well ſerve old <hi>Pope Sam.</hi>
+            </l>
+            <l>To write Encomiums on each Sainted Name</l>
+            <l>In his fair rubrick of New Martyrs; than</l>
+            <l>'Twould be like Poet, like Hiſtorian.</l>
+            <l>Hee's the firſt Poet, and perhaps laſt too,</l>
+            <l>Which on <hi>Geneva's</hi> dunghill ever grew.</l>
+            <l>We've here a Doctor <hi>Poet,</hi> Doctor <hi>Knight,</hi>
+            </l>
+            <l>A true <hi>Veſpaſian</hi> as e're ſaw the light:</l>
+            <l>Who thinks <hi>ten Growns</hi> ſmell well, though from the ſcore</l>
+            <l>Of fluxing ſome old painted, pocky W—</l>
+            <l>The <hi>yielding Siſters</hi> turn not up their eyes,</l>
+            <l>They have forgot to ſend their <hi>old ſupplies</hi>
+            </l>
+            <l>To <hi>Holders-forth;</hi> that golden age is gone,</l>
+            <l>And you are left in <hi>Hopkins</hi> Rithmes to mone</l>
+            <l>Or raile, like envious dogs, becauſe the Moon</l>
+            <l>Above their reach doth undiſturbed run.</l>
+            <l>Good Dr. <hi>Crackt-brains</hi> pray your anger ſpare,</l>
+            <l>Becauſe no <hi>Pimples</hi> do fall to your ſhare,</l>
+            <l>Except ith' <hi>Codpiece;</hi> if ſo, I aſſure you,</l>
+            <l>Get or the <hi>Doctor</hi> or the <hi>Knight</hi> to cure you.</l>
+            <l>That on your ribs and hatchet faces there</l>
+            <l>Can ſtick no fleſh at all; you ever were</l>
+            <l>Legitimate Calves of <hi>Pharaoh</hi>'s pincht-gut Kine,</l>
+            <l>Devouring all, and yet were ever lean;</l>
+            <l>Your tribe more cruelty once practized</l>
+            <l>Then ever <hi>Trajan,</hi> ever <hi>Decius</hi> did,</l>
+            <l>Yet you pretended to be <hi>Chriſtians;</hi> right,</l>
+            <l>(Setting aſide their ignorance oth' true light)</l>
+            <l>Both dare to write to ſay and think I ſhall,</l>
+            <l>They had more real Virtue then you all.</l>
+            <l>
+               <hi>Trajan</hi> no <hi>Trajan</hi> was to his own Sect,</l>
+            <l>Fierce <hi>Diocleſian</hi> did his own protect;</l>
+            <l>You being <hi>Chriſtians,</hi> Chriſtians did undoe,</l>
+            <l>Yea beter <hi>Chriſtians</hi> then the beſt of you.</l>
+            <l>And if that fatal <hi>Leproſie</hi> by Hell</l>
+            <l>Of never thinking never ſpeaking well,</l>
+            <l>Was not entail'd upon you, you would own</l>
+            <l>The diſproportion'd grace kind Heaven ſhowrd down,</l>
+            <l>On them, who, though by you thruſt out of all,</l>
+            <l>And kept out twice ten years, did never fall</l>
+            <l>So low as ſome of you; you preacht away</l>
+            <l>All Charity and good works, and now can ſay</l>
+            <l>Your wiſer <hi>berd</hi> do ſleight you; you may all</l>
+            <l>By your own Engine like <hi>Perillus</hi> fall.</l>
+            <l>As in the Babylonian Tyrants reign</l>
+            <l>Did thriving <hi>Daniel,</hi> ours return again</l>
+            <l>Plump cheekt, without Mechanick arts; they ſay</l>
+            <l>
+               <hi>You pick Tobacco for a groat a day,</hi>
+            </l>
+            <l>And look like <hi>Ghoſts</hi> (for which no body's ſorry)</l>
+            <l>Pickled a century in <hi>Purgatory,</hi>
+            </l>
+            <l>Crying, when ſhall we ſee that happy day</l>
+            <l>That ſweet <hi>Sack-poſſets</hi> frequent were as Whey;</l>
+            <l>A race far worſe then <hi>Vipers,</hi> who do tare</l>
+            <l>Their Mother's guts, but to enjoy the air;</l>
+            <l>Theſe would again their Native Land deſtroy,</l>
+            <l>To ſet up that blind cheating ſenſleſs toy</l>
+            <l>The <hi>Covenant,</hi> or their now-contemned cauſe.</l>
+            <l>Who ſtudy ſtill to contradict the Lawes.</l>
+            <l>Baſe, croſs-grain'd, ſullen, peeviſh wretches, who</l>
+            <l>Though they're undone, ſtrive others to undoe;</l>
+            <l>Yet they were ſtill <hi>Jack-calls</hi> to find the end</l>
+            <l>Whereby a bitious ſpirits might aſcend.</l>
+            <l>
+               <hi>Nero</hi> did-fire his <hi>Rome,</hi> 'tis plainly ſeen</l>
+            <l>To ſatisfie his mirth, and not his <hi>ſpleen;</hi>
+            </l>
+            <l>But theſe to gratifie their laſting hate</l>
+            <l>Did, and endeavour ſtill t'in flame the <hi>State.</hi>
+            </l>
+            <l>And Doctor <hi>Poet</hi> give me leave with you,</l>
+            <l>Ere we have done to ſpeak a Word or two;</l>
+            <l>If you againſt your <hi>Brethren</hi> thus do write,</l>
+            <l>You'l ſpoil your <hi>Iter Boreale</hi> quite;</l>
+            <l>High <hi>blazing Satyrs</hi> do not pleaſe this age,</l>
+            <l>
+               <hi>Droll</hi> now is thought the beſt Poetick rage.</l>
+            <l>It wont to be in <hi>Pulpits,</hi> now in <hi>Rithmes</hi>
+            </l>
+            <l>And on the Stage; <hi>oh manners! oh the times!</hi>
+            </l>
+            <l>However, if the
+<note n="*" place="margin">Poverty, <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Pox.</note> 
+               <hi>Welſh</hi> Gout ſhow you tricks,</l>
+            <l>And <hi>Charon</hi> waft you over muddy <hi>Styx,</hi>
+            </l>
+            <l>(For your amphibious <hi>Doctor</hi> ſent you coine</l>
+            <l>Againſt your journey to procure ſome wine)</l>
+            <l>That all may know you were a man of ſtrife,</l>
+            <l>I'le write your <hi>Epitaph,</hi> and old <hi>Clearke your</hi> Life.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
